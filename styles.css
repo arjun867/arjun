@@ -1,0 +1,67 @@
+
+.intro{
+text-align: center;
+background-color:#BFEAF5;
+padding: 25px;
+padding-top: 90px;
+font-family: cursive;
+}
+.img{
+    padding-bottom: 10px;
+}
+.skills{
+    position: relative;
+    text-align: center;
+    background-color: #EAFDFC;
+    padding-top: 25px;
+    padding-bottom: 25;
+    font-family: cursive;
+}
+.skillstable{
+    display:inline-block ;
+    font-family: cursive;
+}
+.hobbies{
+    text-align: center;
+    background-color: #BFEAF5;
+    padding: 25px;
+    font-family: cursive;
+}
+.hobbiestable{
+    display: inline-block;
+    font-family: cursive;
+}
+.contact{
+    text-align: center;
+    background-color: #EAFDFC;
+    padding: 25px;
+    font-family: cursive;
+}
+.navbar{
+    background-color:#F5EDCE;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.cm{
+    background-color: #BFEAF5;
+    padding: 120px 80px;
+}
+.submit{
+    background-color: #0081C9;
+    position: relative;
+    left: 130px;
+    top: 20px;
+    bottom: 20px;
+}
+footer{
+    text-align: center;
+    font-size: x-small;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
